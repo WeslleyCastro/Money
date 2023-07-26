@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento Web",
+      "type": "income",
+      "price": 1000,
+      "category": "venda",
+      "createdAt": "2023-07-10T17:16:42.386Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "price": 60,
+      "category": "alimento",
+      "createdAt": "2023-07-10T17:17:42.386Z"
+    },
+    {
+      "description": "Academia",
+      "price": 100,
+      "category": "Saude",
+      "type": "outcome",
+      "createdAt": "2023-07-11T20:07:22.681Z",
+      "id": 3
+    },
+    {
+      "description": "Energético",
+      "price": 10,
+      "category": "Alimento",
+      "type": "outcome",
+      "createdAt": "2023-07-11T20:09:49.234Z",
+      "id": 4
+    }
+  ]
+}
